@@ -1,0 +1,37 @@
+{
+  "Siwa": [
+    {
+      "Hotel": {
+        "place":"AGHURMI SIWA RESORT & SALT CAVE",
+        "image":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/e2/2f/bb/exterior.jpg?w=700&h=-1&s=1",
+        "location": "siwa",
+        "price": "EGP 5,438"
+      },
+      "First day activities": {
+        "place": "THE FORTRESS AT SHALI",
+        "image": "https://lp-cms-production.imgix.net/2023-05/iStock-177135791.jpg",
+        "location": "siwa",
+        "price": "$ 50"
+      },
+      "Second day activities": {
+        "place":"GEBEL AL DAKROUR",
+        "image": "https://i0.wp.com/www.westerndeserttours.com/wp-content/uploads/Gebel-al-Dakrur-in-Siwa-Oasis-Sights-in-and-around-Siwa-Oasis.jpg?w=816&h=612&ssl=1",
+        "location": "siwa",
+        "price": "$ 50"
+      },
+      "last Day activities": [{
+        "place":"Lake Siwa",
+        "image": "https://whitedeserttravel.com/wp-content/uploads/2022/09/siwa-oasis-salt-lake-1024x1024.jpeg",
+        "location": "siwa",
+        "price": "$ 335"
+      },
+        {
+          "place":"Cleopatra's Pool",
+          "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/02/db/0c/cleopatra-pools.jpg?w=1200&h=1200&s=1",
+          "location": "siwa",
+          "price": "$ 100"
+        }
+      ]
+    }
+  ]
+}

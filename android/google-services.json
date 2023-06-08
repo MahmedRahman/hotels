@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "286450651633",
+    "project_id": "tough-medley-384809",
+    "storage_bucket": "tough-medley-384809.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286450651633:android:bd98f9e5830f12a9c37450",
+        "android_client_info": {
+          "package_name": "com.example.first_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286450651633-glcq9ghs8ai9hshl487ocel0g962ot6p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh4g1ivZ1JTQJSBvR_xpdzlaOqPwhAqZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286450651633-glcq9ghs8ai9hshl487ocel0g962ot6p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

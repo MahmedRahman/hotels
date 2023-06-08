@@ -1,0 +1,252 @@
+{
+  "H_cairo": [
+    {
+      "Hotel_1":"Four Seasons Hotel Cairo at Nile Plaza",
+      "image": "https://four-seasons-at-nile-plaza-hotel-cairo.hotelmix.co.uk/data/Photos/OriginalPhoto/3972/397290/397290846/Four-Seasons-Hotel-Cairo-At-Nile-Plaza-Exterior.JPEG",
+      "location": "Cairo",
+      "price": "$ 1815"
+    },
+    {
+      "Hotel_2":"Steigenberger Hotel El Tahrir",
+      "image":"https://scoopempire.com/wp-content/uploads/2016/05/steigenberger.jpg",
+      "location": "Cairo",
+      "price": "$ 1010"
+    },
+    {
+      "Hotel_3":"MARRIOTT MENA HOUSE HOTEL",
+      "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/ff/01/29/marriott-mena-house-cairo.jpg?w=700&h=-1&s=1",
+      "location": "Cairo",
+      "price": "$860"
+    },
+    {
+      "Hotel_4":"Ramses Hilton Hotel ",
+      "image": "https://ik.imgkit.net/3vlqs5axxjf/external/ik-seo/http://media.iceportal.com/59178/photos/74044433_XL/Ramses-Hilton-Exterior.jpg?tr=w-780%2Ch-437%2Cfo-auto",
+      "location": "Cairo",
+      "price": "$ 695"
+    },
+    {
+      "Hotel_5":"SHERATON CAIRO HOTEL",
+      "image": "https://vivemedia-1d168.kxcdn.com/227305/0.jpg",
+      "location": "Cairo",
+      "price": "$ 895"
+    }
+  ],
+  "H_Alex": [
+    {
+      "Hotel_1":"Hilton Corniche",
+      "image": "https://www.hilton.com/im/en/ALYACHI/3160549/pool-generic-horizontal.jpg?impolicy=crop&cw=5694&ch=3039&gravity=NorthWest&xposition=0&yposition=378&rw=768&rh=410",
+      "location": "Alexandria",
+      "price": "$760"
+    },
+    {
+      "Hotel_2":"Four Seasons Hotel Alexandria At San Stefano",
+      "image":"https://cf.bstatic.com/xdata/images/hotel/max1024x768/309415020.jpg?k=dcb6171c38231fb4a6f63a8ef5c26d6c49f2e150a1b2272843fd541ccffcea1c&o=&hp=1",
+      "location": "Alexandria",
+      "price": "$ 1430"
+    },
+    {
+      "Hotel_3":"MARRIOTT MENA HOUSE HOTEL",
+      "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/ff/01/29/marriott-mena-house-cairo.jpg?w=700&h=-1&s=1",
+      "location": "Alexandria",
+      "price": "$860"
+    },
+    {
+      "Hotel_4":"Ramses Hilton Hotel ",
+      "image": "https://ik.imgkit.net/3vlqs5axxjf/external/ik-seo/http://media.iceportal.com/59178/photos/74044433_XL/Ramses-Hilton-Exterior.jpg?tr=w-780%2Ch-437%2Cfo-auto",
+      "location": "Alexandria",
+      "price": "$ 695"
+    },
+    {
+      "Hotel_5":"Hilton Alexandria Green Plaza",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/26/68/41/b1/exterior.jpg",
+      "location": "Alexandria",
+      "price": "$ 500"
+    }
+  ],
+  "H_Fayoum": [
+    {
+      "Hotel_1": "Tzila Camp",
+      "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/326055890.jpg?k=ef9c70695851619c355c7ca02275fd8f45400607a73d37fbdbded46c340c1d69&o=&hp=1",
+      "location": "Fayoum",
+      "price": "$ 500 "
+    },
+    {
+      "Hotel_2":"Zaytona Lake View",
+      "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/179066840.jpg?k=39194f196c9f5b36dbb36600110760e524ce5a1e280077262f8f7b434a567bb8&o=&hp=1",
+      "location": "Fayoum",
+      "price": "$ 800"
+    },
+    {
+      "Hotel_3":"Tache Boutique Hotel Fayoum",
+      "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/321082987.jpg?k=688cee8e7f103dff3e2b5035aa4bedc9967b571e7eff6df3e8543bf6ccf1495d&o=&hp=1",
+      "location": "Fayoum",
+      "price": "$540"
+    },
+    {
+      "Hotel_4":"Helnan Auberge Fayoum",
+      "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/b4/c8/46/helnan-auberge-fayoum.jpg?w=700&h=-1&s=1",
+      "location": "Fayoum",
+      "price": "$ 505"
+    },
+    {
+      "Hotel_5":"FAYOUM HOTEL ARMED FORCES ",
+      "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/308415270.jpg?k=6ad9ca90aa8f06e0e03097a2914002838f32db38ac8192d31abd2c7916af1b21&o=&hp=1",
+      "location": "Fayoum",
+      "price": "$ 256"
+    }
+  ],
+  "H_siwa": [
+    {
+      "place":"AGHURMI SIWA RESORT & SALT CAVE",
+      "image":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/e2/2f/bb/exterior.jpg?w=700&h=-1&s=1",
+      "location": "siwa",
+      "price": "$ 180"
+    },
+    {
+      "Hotel_2":"Dream Lodge Siwa",
+      "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/89/22/3f/dream-lodge-hotel.jpg?w=700&h=-1&s=1",
+      "location": "siwa",
+      "price": "$ 196"
+    },
+    {
+      "Hotel_3":"SELIYAA SIWA INN HOTEL",
+      "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/396760794.jpg?k=c37e18c9b60eaa5fb90b86275cfdf30e9eb203ceaf8875ca00dd3004f61aa2ff&o=&hp=1",
+      "location": "siwa",
+      "price": "$ 115"
+    },
+    {
+      "Hotel_4":"Al Nyhaya",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/24/e5/92/d7/al-nyhaya.jpg",
+      "location": "siwa",
+      "price": "$ 862"
+    },
+    {
+      "Hotel_5":"Siwa Shali Resort",
+      "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/10641969.jpg?k=49e8de12afa3cc541df0d23bff3cce3b2f5e12423c310909b457a12da9a03201&o=&hp=1",
+      "location": "siwa",
+      "price": "$ 232"
+    }
+  ],
+  "H_luxor": [
+    {
+      "place":"Hilton Luxor Resort & Spa",
+      "image":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/e2/2f/bb/exterior.jpg?w=700&h=-1&s=1",
+      "location": "luxor",
+      "price": "$ 720"
+    },
+    {
+      "Hotel_2":"PYRAMISA HOTEL LUXOR ",
+      "image": "https://ak-d.tripcdn.com/images/0223o12000a4432mhE08F_R_960_660_R5_D.jpg",
+      "location": "luxor",
+      "price": "$ 207"
+    },
+    {
+      "Hotel_3":"Iberotel Luxor",
+      "image": "https://static21.com-hotel.com/uploads/hotel/79793/photo/iberotel-luxor_15538562489.jpeg",
+      "location": "luxor",
+      "price": "$ 157.30"
+    },
+    {
+      "Hotel_4":"Nefertiti Hotel Luxor",
+      "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/284972424.jpg?k=02d442bf47bb7ab733dda2047093e3b6201d6f6e1519dbab591738972123456f&o=&hp=1",
+      "location": "luxor",
+      "price": "$ 614.39"
+    },
+    {
+      "Hotel_5":"Siwa Shali Resort",
+      "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/10641969.jpg?k=49e8de12afa3cc541df0d23bff3cce3b2f5e12423c310909b457a12da9a03201&o=&hp=1",
+      "location": "luxor",
+      "price": "$ 232"
+    }
+  ],
+  "H_aswan": [
+    {
+      "place":"PYRAMISA ISLAND HOTEL ASWAN",
+      "image": "https://cf.bstatic.com/xdata/images/hotel/max500/16763437.jpg?k=3769e5141baba0a34517ae44ff14888b824b3c3bfff25e9771ab01abc5a99d1a&o=&hp=1",
+      "location": "aswan",
+      "price": "$ 420.37"
+    },
+    {
+      "Hotel_2":"Sofitel Legend Old Cataract",
+      "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/1c/66/1a/sofitel-legend-old-cataract.jpg?w=700&h=-1&s=1",
+      "location": "aswan",
+      "price": "$ 1643.57"
+    },
+    {
+      "Hotel_3":"Anakob",
+      "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/201092347.jpg?k=46e5a3ea6201caa9f4ebd78ed0f8e978fc4954c8b245b0e881f8499067705bbe&o=&hp=1",
+      "location": "aswan",
+      "price": "$ 460"
+    },
+    {
+      "Hotel_4":"BAYT ZAINA - Nubian hospitality house ",
+      "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383275630.jpg?k=2aaa6dadd4ebf41b281a7105342f798ff50f39cfb7146a03952b326e66d941a7&o=&hp=1",
+      "location": "aswan",
+      "price": "$ 140"
+    },
+    {
+      "Hotel_5":"Mövenpick Resort Aswan",
+      "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/3d/8a/9c/movenpick-resort-aswan.jpg?w=700&h=-1&s=1",
+      "location": "aswan",
+      "price": "$ 977"
+    }
+  ],
+  "H_Hurghada": [
+    {
+      "place":"Arabella Azur Resort",
+      "image":"https://cf.bstatic.com/xdata/images/hotel/max1024x768/57803248.jpg?k=c440f06b4eb31cad60095ceeaa0354536634733a2bc3bd0527dca5b73904c4b2&o=&hp=1",
+      "location": "Hurghada",
+      "price": "$ 347.71"
+    },
+    {
+      "Hotel_2":"Bel Air Azur Resort (Adults Only)",
+      "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/155448741.jpg?k=4e2962355cfad62459cc2b8511babcd10d2f4f85a996ebca451cd21dc7365f41&o=&hp=1",
+      "location": "Hurghada",
+      "price": "$ 401.55"
+    },
+    {
+      "Hotel_3":"Ali Pasha Hotel",
+      "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/428665590.jpg?k=930eaa231b3bae1850271194766ca67d9dde541bc3d7600cd86f197157f60827&o=&hp=1",
+      "location": "Hurghada",
+      "price": "$ 439.84"
+    },
+    {
+      "Hotel_4":"New Eagles Aqua Park Resort",
+      "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/58/08/17/eagles-resort.jpg?w=700&h=-1&s=1",
+      "location": "Hurghada",
+      "price": "$ 400"
+    }
+  ],
+  "H_sharm el sheikh": [
+    {
+      "place":"White Hills Resort",
+      "image":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/f0/30/b9/sunrise-pool.jpg?w=700&h=-1&s=1",
+      "location": "Sharm El Sheikh",
+      "price": "$ 1323"
+    },
+    {
+      "Hotel_2":"Ras Katy Sunset Views",
+      "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/408228634.jpg?k=708de9deb4503c256de1db3af33d231f85993992c38cd32c637dba11e9148413&o=&hp=1",
+      "location": "Sharm El Sheikh",
+      "price": "$ 346.71"
+    },
+    {
+      "Hotel_3":"Stella Di Mare Beach Hotel & Spa",
+      "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/81552240.jpg?k=dfc6753624352520a18eb56ff22579c6c6920b6dbed1cc504ddf101ff55b074c&o=&hp=1",
+      "location": "Sharm El Sheikh",
+      "price": "$ 739.31"
+    },
+    {
+      "Hotel_4":"Albatros Laguna Vista Resort - By Pickalbatros",
+      "image": "https://bynder.onthebeach.co.uk/m/390ca254941c3cac/original/Albatros-Laguna-Vista-Beach.jpg",
+      "location": "Sharm El Sheikh",
+      "price": "$ 960.49"
+    },
+    {
+      "Hotel_5":"Albatros Palace Sharm 'Aqua Park'",
+      "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/289838368.jpg?k=6b72562ed192e753e11ee9453f0d27bd6a60de50875abe30e03427dd52bb268d&o=&hp=1",
+      "location": "Sharm El Sheikh",
+      "price": "$ 843.24"
+    }
+  ]
+}

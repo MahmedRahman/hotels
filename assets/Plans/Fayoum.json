@@ -1,0 +1,23 @@
+{"Fay": [
+  {
+    "Hotel": {
+      "Hotelname": "Tzila Camp",
+      "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/326055890.jpg?k=ef9c70695851619c355c7ca02275fd8f45400607a73d37fbdbded46c340c1d69&o=&hp=1",
+      "location": "Fayoum",
+      "price": "$ 500 "
+    },
+    "First day activities": {
+      "place": "Pottery At Tunis Village",
+      "image": "https://www.cairotoptours.com/uploads/pages/slider/94801fc234ddc700554a217c870e5c74.jpg",
+      "location": "Fayoum",
+      "price": "$ 5"
+    },
+    "Second day activities": {
+      "place": "Wadi El Rayan",
+      "image": "https://www.realfayoum.com/wp-content/uploads/2018/04/Wadi-El-Rayan-3-0000.png",
+      "location": "Fayoum",
+      "price": "$ 5, with car/bus +$5, camping $100"
+    }
+  }
+]
+}

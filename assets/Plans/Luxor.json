@@ -1,0 +1,36 @@
+{"luxor": [
+  {
+    "Hotel": {
+      "place":"Hilton Luxor Resort & Spa",
+      "image":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/e2/2f/bb/exterior.jpg?w=700&h=-1&s=1",
+      "location": "luxor",
+      "price": "$ 720"
+    },
+    "First day activities": {
+      "place": "Valley Of Kings",
+      "image": "https://www.cleopatraegypttours.com/wp-content/uploads/2020/01/Valley-of-the-Kings.jpg",
+      "location": "luxor",
+      "price": "$ 100 - $ 200"
+    },
+    "Second day activities": {
+      "place":"Karnak Temple",
+      "image": "https://images.memphistours.com/large/478529737dfbb649ce5abd97ffeaf267.jpg",
+      "location": "luxor",
+      "price": "$ 50"
+    },
+    "last Day activities": [{
+      "place":"TOMB OF TUT ANKH AMUN",
+      "image": "https://cdn.mos.cms.futurecdn.net/GHLH69x4d7dpbhwNqTtXyP.jpg",
+      "location": "luxor",
+      "price": "$ 13"
+    },
+      {
+        "place":"MUMMIFICATION MUSEUM",
+        "image": "https://alhabashi.com/wp-content/uploads/2019/09/Mummific-Museum-1024x768.jpg",
+        "location": "luxor",
+        "price": "$ 140"
+      }
+    ]
+  }
+]
+}

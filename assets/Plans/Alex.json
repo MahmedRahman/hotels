@@ -1,0 +1,41 @@
+{"alex": [
+  {
+    "Hotel": {
+      "Hotel_1":"Hilton Corniche",
+      "image": "https://www.hilton.com/im/en/ALYACHI/3160549/pool-generic-horizontal.jpg?impolicy=crop&cw=5694&ch=3039&gravity=NorthWest&xposition=0&yposition=378&rw=768&rh=410",
+      "location": "Alexandria",
+      "price": "$760"
+    },
+    "First day activities": {
+      "place": "Tea Island",
+      "image": "https://thumbs.dreamstime.com/b/bridge-mediterranean-sea-tea-island-montazah-park-royal-palace-far-distance-calm-sea-115927240.jpg",
+      "location": "Alexandria",
+      "price": "$ 10"
+    },
+    "Second day activities": {
+      "place":"Montaza Palace",
+      "image": "https://egyptianstreets.com/wp-content/uploads/2022/05/montaza-palace.jpeg",
+      "location": "Alexandria",
+      "price": "$ 5"
+    },
+    "third day activities": {
+      "place":"National Museum Of Alexandria",
+      "image": "https://www.sharm-club.com/assets/images/cities/alexandria/national-museum/alexandria-national-museum.jpg",
+      "location": "Alexandria",
+      "price": "$ 5"
+    },
+    "last Day, Art Day": [{
+      "place":"Royal Jewellery Museum",
+      "image": "https://www.arabcont.com/Images/ProjectImage/Zizinya01.jpg",
+      "location": "Alexandria",
+      "price": "$ 24"
+    },
+      {
+        "place":"Museum of fine art",
+        "image": "https://www.spain.info/.content/imagenes/cabeceras-grandes/valencia/sala-sorolla-bellas-artes-valencia-c.jpg",
+        "location": "Alexandria"
+      }
+    ]
+  }
+]
+}

@@ -1,0 +1,39 @@
+{
+  "Hurghada": [
+    {
+      "Hotel": {
+        "place":"Arabella Azur Resort",
+        "image":"https://cf.bstatic.com/xdata/images/hotel/max1024x768/57803248.jpg?k=c440f06b4eb31cad60095ceeaa0354536634733a2bc3bd0527dca5b73904c4b2&o=&hp=1",
+        "location": "Hurghada",
+        "price": "EGP 10,753"
+      },
+      "First day activities": {
+        "place": "EXPERIENCE HURGHADA'S BEACH LIFE ",
+        "image": "https://lp-cms-production.imgix.net/2023-05/iStock-177135791.jpg",
+        "location": "Hurghada",
+        "price": "$ 120"
+      },
+      "Second day activities":
+      {
+        "place":"EXPLORE THE DESERT ",
+        "image": "https://tourscanner.com/blog/wp-content/uploads/2022/07/desert-safaris-in-Hurghada.jpg",
+        "location": "Hurghada",
+        "price": "single & individual $13 2-seaters $20"
+      },
+      "last Day , sea day":[
+        {
+          "place":"GO BELOW ON THE SINDBAD SUBMARINE",
+          "image": "https://www.egyptdeals.tours/photos/excursions/Image6%20(2)_6341f_lg.jpg",
+          "location": "Hurghada",
+          "price": "$ 80"
+        },
+        {
+          "place":"DIVE THE SITES OF THE STRAITS OF GUBAL",
+          "image": "https://zamzam-blog.s3.eu-west-1.amazonaws.com/wp-content/uploads/2022/05/Diving-In-Saudi-Arabia-1-840x450.jpg",
+          "location": "Hurghada",
+          "price": "$ 96"
+        }
+      ]
+    }
+  ]
+}

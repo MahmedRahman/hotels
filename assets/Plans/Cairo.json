@@ -1,0 +1,44 @@
+{"Cairo": [
+  {
+    "Hotel": {
+      "Hotelname":"MARRIOTT MENA HOUSE HOTEL",
+      "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/ff/01/29/marriott-mena-house-cairo.jpg?w=700&h=-1&s=1",
+      "location": "Cairo",
+      "price": "EGP 26,599"
+    },
+    "First day activities": {
+      "place": "Khan el-Khalili",
+      "image": "https://www.civitatis.com/f/egipto/egipto/guia/khan-el-khalili-m.jpg",
+      "location": "Cairo"
+    },
+    "Second day activities":[
+      {
+        "place":"pyramids of giza",
+        "image": "https://static.toiimg.com/photo/98427791.cms",
+        "location": "Cairo",
+        "price": "$ 45"
+      },
+      {
+        "place":"Cruise on the Nile",
+        "image": "https://www.oberoihotels.com/-/media/oberoi-hotels/website-images/the-oberoi-zahra-nile-cruiser/overview/overview-banners/z1920-x-819-new.jpg",
+        "location": "Cairo",
+        "price": "EGP 500"
+      }
+    ],
+    "last Day , historical day":[
+      {
+        "place":"Baron Empain's palace",
+        "image": "https://egymonuments.gov.eg//media/5808/whatsapp-image-2020-03-10-at-124128-pm-2.jpeg?center=0.5,0.50370370370370365&mode=crop&width=1200&height=630&rnd=133300352550000000",
+        "location": "Cairo",
+        "price": "EGP 100"
+      },
+      {
+        "place":"Muhammad Ali’s Palace",
+        "image": "https://www.easytoursegypt.com/wp-content/uploads/2022/06/Untitled15-1.jpg",
+        "location": "Cairo",
+        "price": "EGP 170"
+      }
+    ]
+  }
+]
+}
