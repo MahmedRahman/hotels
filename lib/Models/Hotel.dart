@@ -140,7 +140,7 @@ class Hotel {
           'elphantine island sheyakha ola, aswan, 81111 Aswan, Egypt',
           4.6,
           3,
-          ['assets/images/img1.jpg', 'assets/images/thumbnail1.png'],
+          ['assets/images/img1.jpg',  'assets/images/thumbnail1.png'],
           300),
       Hotel(
           'BAYT ZAINA - Nubian hospitality house',
