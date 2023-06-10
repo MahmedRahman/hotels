@@ -13,7 +13,6 @@ import 'Screens/Places.dart';
 import 'Screens/logg.dart';
 import 'Screens/Details.dart';
 
-
 void main() {
   runApp(const MyApp());
 }
@@ -26,7 +25,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Urlaub',
       debugShowCheckedModeBanner: false,
-      
+
       theme: ThemeData(
         primarySwatch: Colors.blueGrey,
         textTheme: GoogleFonts.mulishTextTheme(
@@ -34,6 +33,8 @@ class MyApp extends StatelessWidget {
         ),
       ),
       home: const LoginPage(),
+      //nada
+      //project
     );
   }
 }
