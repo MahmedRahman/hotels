@@ -1,8 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:gap/gap.dart';
+import 'package:urluab/Models/palns.dart';
 import 'package:urluab/Screens/Double_text_widget.dart';
 import 'package:urluab/Screens/appLayout.dart';
 import 'package:urluab/Screens/Icons_text_widget.dart';
+import 'package:urluab/data/plans.dart';
 
 import 'Color.dart';
 
@@ -19,6 +21,7 @@ TextEditingController checkin = TextEditingController();
 TextEditingController checkout = TextEditingController();
 
 class _customizedPlanState extends State<customizedPlan> {
+  List<Plans> plans = [];
   @override
   Widget build(BuildContext context) {
     final size = AppLayout.getSize(context);
@@ -35,7 +38,11 @@ class _customizedPlanState extends State<customizedPlan> {
                 style: Styles.headLineStyle1.copyWith(fontSize: 35),
               ),
               Gap(AppLayout.getHeight(20)),
-              AppIconText(icon: Icons.place_outlined, text: 'your Destination', controller: Destination),
+              AppIconText(
+                icon: Icons.place_outlined,
+                text: 'your Destination',
+                controller: Destination,
+              ),
               Gap(AppLayout.getHeight(15)),
               AppIconText(
                 icon: Icons.money,
@@ -63,10 +70,18 @@ class _customizedPlanState extends State<customizedPlan> {
                   ),
                   child: InkWell(
                     onTap: () {
-                      print(Destination.text);
-                      if (budget.value == 10000) {
-                        print("you choosed \n ");
+                      plans.clear();
+                      for (var i = 0; i < ListPlans.length; i++) {
+                        // if (ListPlans.elementAt(i).location == Destination.text) {
+                        //   plans.add(ListPlans.elementAt(i));
+                        // }
+
+                        if (ListPlans.elementAt(i).location == Destination.text &&
+                            ListPlans.elementAt(i).Price! <= int.parse(budget.text)) {
+                          plans.add(ListPlans.elementAt(i));
+                        }
                       }
+                      setState(() {});
                     },
                     child: Center(
                       child: Text(
@@ -76,6 +91,13 @@ class _customizedPlanState extends State<customizedPlan> {
                     ),
                   )),
               Gap(AppLayout.getHeight(40)),
+              Column(
+                children: List.generate(plans.length, (index) {
+                  return ListTile(
+                    title: Text(plans.elementAt(index).name.toString()),
+                  );
+                }),
+              ),
               const AppDoubleTextWidget(bigText: "recommended places", smallText: "View all"),
               Gap(AppLayout.getHeight(15)),
               Row(

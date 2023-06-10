@@ -3,6 +3,7 @@ import 'package:urluab/Models/Details.dart';
 import 'package:urluab/Screens/Customize.dart';
 import 'package:urluab/Screens/Details.dart';
 import 'package:urluab/Models/Hotel.dart';
+import 'package:urluab/Screens/FayoumPlan.dart';
 import 'package:urluab/Screens/Profile.dart';
 import 'package:urluab/Screens/pp.dart';
 
@@ -104,12 +105,17 @@ class _HomePageState extends State<HomePage> {
               ),
               Row(
                 mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                children: const [
-                  Text(
-                    'Plans',
-                    style: TextStyle(
-                      fontSize: 24,
-                      fontWeight: FontWeight.w600,
+                children: [
+                  InkWell(
+                    onTap: () {
+                      Navigator.of(context).push(MaterialPageRoute(builder: (context) => Planfay()));
+                    },
+                    child: Text(
+                      'Plans',
+                      style: TextStyle(
+                        fontSize: 24,
+                        fontWeight: FontWeight.w600,
+                      ),
                     ),
                   ),
                 ],
@@ -305,7 +311,7 @@ class _HomePageState extends State<HomePage> {
                                   Radius.circular(10),
                                 ),
                                 child: Image.asset(
-                                  "",
+                                  _travelList[index].imageUrl[0],
                                   fit: BoxFit.fill,
                                   height: 60.0,
                                 ),
